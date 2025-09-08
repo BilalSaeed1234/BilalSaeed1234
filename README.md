@@ -1,15 +1,16 @@
 # 👋 Hi, I'm Bilal Saeed
 
-**AI & Data Enthusiast | Aspiring Data Engineer | Exploring AI Agents, RAG & Automation**
+**AI & Data Enthusiast | Aspiring Data Engineer**
 
-Welcome to my GitHub profile! 🚀  
-I enjoy building projects around **AI, Chatbots, and Automation**, and I'm continuously learning **Data Engineering** to become an expert in managing and deploying AI-powered systems.
+I build practical AI and automation projects — chatbots, RAG systems, and workflow automations.
 
-## 🌟 Highlights
-- 🧑‍⚖️ **AI Lawyer** – Answer questions from PDF legal documents using RAG.  
-- 🤖 **AI Chatbot RAG** – Chatbot with PDF + Email integration using Supabase.  
-- 💻 **Web UI Project** – Custom UI for AI workflows.  
-- 💬 **Chainlit Chatbot** – Simple chatbot powered by Python & Chainlit.  
+## Featured Projects
+- **AI_Lawyer** — PDF Q&A using Retrieval-Augmented Generation (RAG) for legal documents.  
+- **AI_Chatbot_RAG** — Chatbot that answers from uploaded PDFs and email data.  
+- **Web_UI** — Gradio-based UI for browser-agent workflows.  
+- **Simple_Chainlit_Chatbot** — Lightweight Chainlit Q&A chatbot.  
+- **Email Contract Workflow (n8n + Supabase)** — Watches inbox for **SIGNED CONTRACT**, extracts email fields, downloads PDF attachments, parses specific pages for contract data, combines email + PDF data, and stores records in Supabase.
 
-## 📫 Connect with me
-- GitHub: [BilalSaeed1234](https://github.com/BilalSaeed1234)
+## Connect
+- GitHub: https://github.com/BilalSaeed1234  
+  
