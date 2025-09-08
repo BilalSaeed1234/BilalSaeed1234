@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bilal Saeed
 
-**AI & Data Enthusiast | Aspiring Data Engineer**
+**AI & Data Enthusiast | Aspiring Data Engineer | Student at Panaverse DAO**
 
 I build practical AI and automation projects — chatbots, RAG systems, and workflow automations.
 
@@ -12,5 +12,5 @@ I build practical AI and automation projects — chatbots, RAG systems, and work
 - **Email Contract Workflow (n8n + Supabase)** — Watches inbox for **SIGNED CONTRACT**, extracts email fields, downloads PDF attachments, parses specific pages for contract data, combines email + PDF data, and stores records in Supabase.
 
 ## Connect
-- GitHub: https://github.com/BilalSaeed1234  
+- GitHub: [BilalSaeed1234](https://github.com/BilalSaeed1234)  
   
