@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bilal Saeed
 
-**AI & Data Enthusiast | Aspiring Data Engineer | Student at Panaverse DAO**
+**AI & Data Enthusiast | Aspiring Data Engineer | Student at Panaversity**
 
 I build practical AI and automation projects — chatbots, RAG systems, and workflow automations.
 
